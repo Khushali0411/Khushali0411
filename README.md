@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushali Patel</h1>
-<h3 align="center">Join Me on My Tech Odyssey: Learning, Coding, Creating</h3>
+<h3 align="center"> Learning, Coding, Creating </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/3a/11/40/3a11402592abce0b8b166c2b7ba35160.jpg">
 
