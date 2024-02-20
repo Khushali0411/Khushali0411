@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushali Patel</h1>
-<h3 align="center">Join Me on My Tech Odyssey: Learning, Coding, Creating</h3>
+<h3 align="center">Join Me on My Tech Journey: Learning, Coding, Creating</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushali0411&label=Profile%20views&color=0e75b6&style=flat" alt="khushali0411" /> </p>
 
